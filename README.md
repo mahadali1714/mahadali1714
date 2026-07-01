@@ -25,7 +25,7 @@ Building scalable automation systems using n8n, LLM agents, and SaaS integration
 ---
 
 ## 📌 Featured Work
-- **Dostify AI** – Automated Shopify & Ads Intelligence Platform
+- **Dostify AI** Automated Shopify & Ads Intelligence Platform
 - **CRM Automation Pipelines** – Zoho, HubSpot, Social Media
 - **LLM Reporting Agents** – Insight generation & PDF delivery
 
@@ -35,4 +35,4 @@ Building scalable automation systems using n8n, LLM agents, and SaaS integration
 - LinkedIn: https://www.linkedin.com/in/mahad-ali
 - Location: Lahore, Pakistan
 
-⭐ I build systems that work in production — not just demos.
+⭐ I build systems that work in production not just demos.
